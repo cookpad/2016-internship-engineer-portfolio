@@ -21,14 +21,15 @@ engineering:
   intersting_points: 楽しさ、面白さを感じるところ
   dislike_points: プログラミングで嫌いなところ
   skill_levels:
-    title: 技術レベル
-    element: 技術要素
-    level: スキルレベル
-    years: 経験年数
-    explanation: 補足事項
-  favorite_language: 得意なプログラミング言語
-  dislike_language: 嫌いなプログラミング言語
-  pr: 技術についての自己PR
+    elements:
+      title: 技術レベル
+      element: 技術要素
+      level: スキルレベル
+      years: 経験年数
+      explanation: 補足事項
+    favorite_language: 得意なプログラミング言語
+    dislike_language: 嫌いなプログラミング言語
+    pr: 技術についての自己PR
 intern_experiences:
   title: インターン経験
   company: 会社名
