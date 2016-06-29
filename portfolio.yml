@@ -29,27 +29,28 @@ engineering:
   dislike_points: |
     うまくいかないときがあること。技術力が足りないのはわかっているが、もやもやする。
   skill_levels:
-    - title: C言語
-      level: 1
-      years: 1
-      explanation: |
-        授業で習った
-    - title: Java
-      level: 1
-      years: 1
-      explanation: |
-        授業で習った
-    - title: Ruby
-      level: 3
-      years: 2
-      explanation: |
-        趣味で作るプロダクトはすべてRubyで書いています
-  favorite_language: |
-    Rubyが一番経験が長いので得意です
-  dislike_language: |
-    PHPはちょっと苦手です
-  pr: |
-    新しいことには積極的に挑戦していて、いまはAWSでインフラ周りの勉強をしています。
+    elements:
+      - title: C言語
+        level: 1
+        years: 1
+        explanation: |
+          授業で習った
+      - title: Java
+        level: 1
+        years: 1
+        explanation: |
+          授業で習った
+      - title: Ruby
+        level: 3
+        years: 2
+        explanation: |
+          趣味で作るプロダクトはすべてRubyで書いています
+    favorite_language: |
+      Rubyが一番経験が長いので得意です
+    dislike_language: |
+      PHPはちょっと苦手です
+    pr: |
+      新しいことには積極的に挑戦していて、いまはAWSでインフラ周りの勉強をしています。
 intern_experiences:
   - company: クックパッド
     detail: |
